@@ -1,0 +1,2 @@
+# Ignorar inspección de Quarto
+quarto_inspection: false
